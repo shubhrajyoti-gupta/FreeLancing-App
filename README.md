@@ -16,6 +16,7 @@ A Java-based **CLI freelancing platform** that replicates core features of sites
 - JUnit (optional testing)
 
 ## ▶️ Run
+```bash
 
 git clone https://github.com/shubhrajyoti-gupta/FreeLancing-App.git
 javac Main.java
